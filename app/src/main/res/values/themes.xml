@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ClickerApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:windowBackground">@drawable/bg_gradient</item>
+        <item name="android:colorBackground">@android:color/transparent</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

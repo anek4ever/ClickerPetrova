@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Кликер Ани Петровой</string>
+    <string name="click_me">Кликни</string>
+    <string name="show_stats">Статистика</string>
+    <string name="user_level">Уровень</string>
+    <string name="today_clicks">Клики сегодня: %1$d</string>
+    <string name="weekly_clicks">Клики за неделю: %1$d</string>
+    <string name="monthly_clicks">Клики за %1$s: %2$d</string>
+    <string name="yearly_clicks">Клики за год: %1$d</string>
+    <string name="total_clicks">Всего кликов: %1$d</string>
+    <string name="next_level_in">До следующего уровня: %1$d</string>
+    <string name="max_level">Максимальный уровень!</string>
+</resources>
